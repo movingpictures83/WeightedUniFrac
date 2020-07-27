@@ -14,7 +14,7 @@ mapping: Mapping table (CSV)
 tree: Phylogenetic tree (CSV)
 column: (STRING)
 
-The pie chart will then be generated using the provided prefix (prefix.pdf), with a supplemental prefix.csv file containing properties of the graph.
+The plot will then be generated using the provided prefix (prefix.pdf), with a supplemental prefix.csv file containing properties of the graph.
 
 Format of the otufile CSV:
 - Rows are OTUs, columns are samples

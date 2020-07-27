@@ -1,0 +1,3 @@
+otufile	plugins/WeightedUniFrac/example/asv_abund.norm.transpose.csv
+mapping	plugins/WeightedUniFrac/example/asv_map.csv
+tree	plugins/WeightedUniFrac/example/asv_tax.csv
